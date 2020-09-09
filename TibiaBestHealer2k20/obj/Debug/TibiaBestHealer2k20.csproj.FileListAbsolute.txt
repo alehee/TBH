@@ -1,0 +1,9 @@
+D:\Proj_Programming\CSharp WinForms\TibiaBestHealer2k20\TibiaBestHealer2k20\obj\Debug\TibiaBestHealer2k20.csprojAssemblyReference.cache
+D:\Proj_Programming\CSharp WinForms\TibiaBestHealer2k20\TibiaBestHealer2k20\obj\Debug\TibiaBestHealer2k20.FORM_Main.resources
+D:\Proj_Programming\CSharp WinForms\TibiaBestHealer2k20\TibiaBestHealer2k20\obj\Debug\TibiaBestHealer2k20.csproj.GenerateResource.cache
+D:\Proj_Programming\CSharp WinForms\TibiaBestHealer2k20\TibiaBestHealer2k20\bin\Debug\TibiaBestHealer2k20.exe.config
+D:\Proj_Programming\CSharp WinForms\TibiaBestHealer2k20\TibiaBestHealer2k20\bin\Debug\TibiaBestHealer2k20.exe
+D:\Proj_Programming\CSharp WinForms\TibiaBestHealer2k20\TibiaBestHealer2k20\bin\Debug\TibiaBestHealer2k20.pdb
+D:\Proj_Programming\CSharp WinForms\TibiaBestHealer2k20\TibiaBestHealer2k20\obj\Debug\TibiaBestHealer2k20.exe
+D:\Proj_Programming\CSharp WinForms\TibiaBestHealer2k20\TibiaBestHealer2k20\obj\Debug\TibiaBestHealer2k20.pdb
+D:\Proj_Programming\CSharp WinForms\TibiaBestHealer2k20\TibiaBestHealer2k20\obj\Debug\TBH.Properties.Resources.resources
