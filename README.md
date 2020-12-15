@@ -25,7 +25,7 @@ There's two ways: you can download the master branch with code, check how it's w
 It's simple to use but needs some preparation
 
 First of all, let me present you the main (and only) panel in the program
-![It's a panel pic!](https://github.com/alehee/TBH/blob/master/github_resources/panel.png?raw=true)
+![It's a panel pic!](https://github.com/alehee/TBH/blob/master/github_resources/panel.png)
 
 * ![Simple color](https://via.placeholder.com/15/000000/000000?text=+) button to reset Tibia path (you choose the path on first use)
 * ![Simple color](https://via.placeholder.com/15/C3C3C3/000000?text=+) log buffer, it shows some information about the program up to date
