@@ -77,8 +77,6 @@ namespace TibiaBestHealer2k20
             timer.Stop();
             timer.Interval = 300;
             timer.Tick += new EventHandler(TimerTick);
-
-            //BM3LV-SQVU8-28SL5-UBFRJ
         }
 
         private void FORM_Main_Load(object sender, EventArgs e)
