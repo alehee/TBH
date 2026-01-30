@@ -29,14 +29,14 @@ First of all, let me present you the main (and only) panel in the program
   <img src="https://github.com/alehee/TBH/blob/master/github_resources/panel.png">
 </p>
 
-* ![Simple color](https://via.placeholder.com/15/000000/000000?text=+) button to reset Tibia path (you choose the path on first use)
-* ![Simple color](https://via.placeholder.com/15/C3C3C3/000000?text=+) log buffer, it shows some information about the program up to date
-* ![Simple color](https://via.placeholder.com/15/FF0000/000000?text=+) secure heal option is a double heal hotkey trigger, you can check this if you want
-* ![Simple color](https://via.placeholder.com/15/FF6C00/000000?text=+) textbox for information below what HP% you want to trigger heal hotkey (default is 50%)
-* ![Simple color](https://via.placeholder.com/15/FFFF00/000000?text=+) textbox for information below what MP% you want to trigger mana hotkey (default is 50%)
-* ![Simple color](https://via.placeholder.com/15/00FF00/000000?text=+) calibration button, more about it below
-* ![Simple color](https://via.placeholder.com/15/AA00FF/000000?text=+) on/off bot button, simple
-* ![Simple color](https://via.placeholder.com/15/FFBAFA/000000?text=+) current bot status
+* ![#000000](https://placehold.co/15x15/000000/000000.png) button to reset Tibia path (you choose the path on first use)
+* ![#C3C3C3](https://placehold.co/15x15/C3C3C3/C3C3C3.png) log buffer, it shows some information about the program up to date
+* ![#FF0000](https://placehold.co/15x15/FF0000/FF0000.png) secure heal option is a double heal hotkey trigger, you can check this if you want
+* ![#FF6C00](https://placehold.co/15x15/FF6C00/FF6C00.png) textbox for information below what HP% you want to trigger heal hotkey (default is 50%)
+* ![#FFFF00](https://placehold.co/15x15/FFFF00/FFFF00.png) textbox for information below what MP% you want to trigger mana hotkey (default is 50%)
+* ![#00FF00](https://placehold.co/15x15/00FF00/00FF00.png) calibration button, more about it below
+* ![#AA00FF](https://placehold.co/15x15/AA00FF/AA00FF.png) on/off bot button, simple
+* ![#FFBAFA](https://placehold.co/15x15/FFBAFA/FFBAFA.png) current bot status
 
 ### First use
 First of all you need to **prepare your client to the program**.
